@@ -1,4 +1,4 @@
-# Projeto de Testes Automatizados com Selenium WebDriver
+# Projeto de Data Driven no Curso Selenium WebDriver T1606355
 
 Projeto Java com Maven para automacao de testes Web usando Selenium WebDriver, TestNG e WebDriverManager.
 
